@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT-like Chat</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        #chat-container {
+            width: 50%;
+            max-width: 600px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            overflow-y: auto;
+            max-height: 500px;
+        }
+        .chat-box {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .user {
+            background-color: #007bff;
+            color: white;
+            text-align: right;
+        }
+        .bot {
+            background-color: #e9ecef;
+        }
+        #user-input {
+            width: 80%;
+            padding: 10px;
+        }
+        #send-btn {
+            padding: 10px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>ChatGPT-like Chat</h2>
+    <div id="chat-container"></div>
+    <input type="text" id="user-input" placeholder="Type your message..." />
+    <button id="send-btn">Send</button>
+
+    <script>
+        $(document).ready(function() {
+            $("#send-btn").click(function() {
+                var userMessage = $("#user-input").val().trim();
+                if (userMessage === "") return;
+
+                $("#chat-container").append('<div class="chat-box user">' + userMessage + '</div>');
+                $("#user-input").val("");
+
+                $.ajax({
+                    url: "/generate",
+                    type: "POST",
+                    contentType: "application/json",
+                    data: JSON.stringify({ prompt: userMessage }),
+                    success: function(response) {
+                        $("#chat-container").append('<div class="chat-box bot">' + response.response + '</div>');
+                    },
+                    error: function() {
+                        $("#chat-container").append('<div class="chat-box bot">Error: Unable to reach the server.</div>');
+                    }
+                });
+            });
+
+            $("#user-input").keypress(function(e) {
+                if (e.which == 13) {
+                    $("#send-btn").click();
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

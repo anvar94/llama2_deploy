@@ -1,0 +1,2606 @@
+[
+    {
+        "prompt": "What is the capital of Aruba?",
+        "completion": "The capital of Aruba is Oranjestad."
+    },
+    {
+        "prompt": "Which region does Aruba belong to?",
+        "completion": "Aruba belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Aruba?",
+        "completion": "Aruba has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Afghanistan?",
+        "completion": "The capital of Afghanistan is Kabul."
+    },
+    {
+        "prompt": "Which region does Afghanistan belong to?",
+        "completion": "Afghanistan belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Afghanistan?",
+        "completion": "Afghanistan has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Angola?",
+        "completion": "The capital of Angola is Luanda."
+    },
+    {
+        "prompt": "Which region does Angola belong to?",
+        "completion": "Angola belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Angola?",
+        "completion": "Angola has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Albania?",
+        "completion": "The capital of Albania is Tirane."
+    },
+    {
+        "prompt": "Which region does Albania belong to?",
+        "completion": "Albania belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Albania?",
+        "completion": "Albania has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Andorra?",
+        "completion": "The capital of Andorra is Andorra la Vella."
+    },
+    {
+        "prompt": "Which region does Andorra belong to?",
+        "completion": "Andorra belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Andorra?",
+        "completion": "Andorra has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of United Arab Emirates?",
+        "completion": "The capital of United Arab Emirates is Abu Dhabi."
+    },
+    {
+        "prompt": "Which region does United Arab Emirates belong to?",
+        "completion": "United Arab Emirates belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of United Arab Emirates?",
+        "completion": "United Arab Emirates has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Argentina?",
+        "completion": "The capital of Argentina is Buenos Aires."
+    },
+    {
+        "prompt": "Which region does Argentina belong to?",
+        "completion": "Argentina belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Argentina?",
+        "completion": "Argentina has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Armenia?",
+        "completion": "The capital of Armenia is Yerevan."
+    },
+    {
+        "prompt": "Which region does Armenia belong to?",
+        "completion": "Armenia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Armenia?",
+        "completion": "Armenia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of American Samoa?",
+        "completion": "The capital of American Samoa is Pago Pago."
+    },
+    {
+        "prompt": "Which region does American Samoa belong to?",
+        "completion": "American Samoa belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of American Samoa?",
+        "completion": "American Samoa has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Antigua and Barbuda?",
+        "completion": "The capital of Antigua and Barbuda is Saint John's."
+    },
+    {
+        "prompt": "Which region does Antigua and Barbuda belong to?",
+        "completion": "Antigua and Barbuda belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Antigua and Barbuda?",
+        "completion": "Antigua and Barbuda has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Australia?",
+        "completion": "The capital of Australia is Canberra."
+    },
+    {
+        "prompt": "Which region does Australia belong to?",
+        "completion": "Australia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Australia?",
+        "completion": "Australia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Austria?",
+        "completion": "The capital of Austria is Vienna."
+    },
+    {
+        "prompt": "Which region does Austria belong to?",
+        "completion": "Austria belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Austria?",
+        "completion": "Austria has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Azerbaijan?",
+        "completion": "The capital of Azerbaijan is Baku."
+    },
+    {
+        "prompt": "Which region does Azerbaijan belong to?",
+        "completion": "Azerbaijan belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Azerbaijan?",
+        "completion": "Azerbaijan has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Burundi?",
+        "completion": "The capital of Burundi is Bujumbura."
+    },
+    {
+        "prompt": "Which region does Burundi belong to?",
+        "completion": "Burundi belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Burundi?",
+        "completion": "Burundi has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Belgium?",
+        "completion": "The capital of Belgium is Brussels."
+    },
+    {
+        "prompt": "Which region does Belgium belong to?",
+        "completion": "Belgium belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Belgium?",
+        "completion": "Belgium has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Benin?",
+        "completion": "The capital of Benin is Porto-Novo."
+    },
+    {
+        "prompt": "Which region does Benin belong to?",
+        "completion": "Benin belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Benin?",
+        "completion": "Benin has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Burkina Faso?",
+        "completion": "The capital of Burkina Faso is Ouagadougou."
+    },
+    {
+        "prompt": "Which region does Burkina Faso belong to?",
+        "completion": "Burkina Faso belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Burkina Faso?",
+        "completion": "Burkina Faso has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Bangladesh?",
+        "completion": "The capital of Bangladesh is Dhaka."
+    },
+    {
+        "prompt": "Which region does Bangladesh belong to?",
+        "completion": "Bangladesh belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Bangladesh?",
+        "completion": "Bangladesh has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Bulgaria?",
+        "completion": "The capital of Bulgaria is Sofia."
+    },
+    {
+        "prompt": "Which region does Bulgaria belong to?",
+        "completion": "Bulgaria belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Bulgaria?",
+        "completion": "Bulgaria has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Bahrain?",
+        "completion": "The capital of Bahrain is Manama."
+    },
+    {
+        "prompt": "Which region does Bahrain belong to?",
+        "completion": "Bahrain belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Bahrain?",
+        "completion": "Bahrain has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Bahamas, The?",
+        "completion": "The capital of Bahamas, The is Nassau."
+    },
+    {
+        "prompt": "Which region does Bahamas, The belong to?",
+        "completion": "Bahamas, The belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Bahamas, The?",
+        "completion": "Bahamas, The has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Bosnia and Herzegovina?",
+        "completion": "The capital of Bosnia and Herzegovina is Sarajevo."
+    },
+    {
+        "prompt": "Which region does Bosnia and Herzegovina belong to?",
+        "completion": "Bosnia and Herzegovina belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Bosnia and Herzegovina?",
+        "completion": "Bosnia and Herzegovina has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Belarus?",
+        "completion": "The capital of Belarus is Minsk."
+    },
+    {
+        "prompt": "Which region does Belarus belong to?",
+        "completion": "Belarus belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Belarus?",
+        "completion": "Belarus has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Belize?",
+        "completion": "The capital of Belize is Belmopan."
+    },
+    {
+        "prompt": "Which region does Belize belong to?",
+        "completion": "Belize belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Belize?",
+        "completion": "Belize has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Bermuda?",
+        "completion": "The capital of Bermuda is Hamilton."
+    },
+    {
+        "prompt": "Which region does Bermuda belong to?",
+        "completion": "Bermuda belongs to the North America region."
+    },
+    {
+        "prompt": "What is the income level of Bermuda?",
+        "completion": "Bermuda has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Bolivia?",
+        "completion": "The capital of Bolivia is La Paz."
+    },
+    {
+        "prompt": "Which region does Bolivia belong to?",
+        "completion": "Bolivia belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Bolivia?",
+        "completion": "Bolivia has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Brazil?",
+        "completion": "The capital of Brazil is Brasilia."
+    },
+    {
+        "prompt": "Which region does Brazil belong to?",
+        "completion": "Brazil belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Brazil?",
+        "completion": "Brazil has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Barbados?",
+        "completion": "The capital of Barbados is Bridgetown."
+    },
+    {
+        "prompt": "Which region does Barbados belong to?",
+        "completion": "Barbados belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Barbados?",
+        "completion": "Barbados has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Brunei Darussalam?",
+        "completion": "The capital of Brunei Darussalam is Bandar Seri Begawan."
+    },
+    {
+        "prompt": "Which region does Brunei Darussalam belong to?",
+        "completion": "Brunei Darussalam belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Brunei Darussalam?",
+        "completion": "Brunei Darussalam has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Bhutan?",
+        "completion": "The capital of Bhutan is Thimphu."
+    },
+    {
+        "prompt": "Which region does Bhutan belong to?",
+        "completion": "Bhutan belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Bhutan?",
+        "completion": "Bhutan has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Botswana?",
+        "completion": "The capital of Botswana is Gaborone."
+    },
+    {
+        "prompt": "Which region does Botswana belong to?",
+        "completion": "Botswana belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Botswana?",
+        "completion": "Botswana has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Central African Republic?",
+        "completion": "The capital of Central African Republic is Bangui."
+    },
+    {
+        "prompt": "Which region does Central African Republic belong to?",
+        "completion": "Central African Republic belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Central African Republic?",
+        "completion": "Central African Republic has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Canada?",
+        "completion": "The capital of Canada is Ottawa."
+    },
+    {
+        "prompt": "Which region does Canada belong to?",
+        "completion": "Canada belongs to the North America region."
+    },
+    {
+        "prompt": "What is the income level of Canada?",
+        "completion": "Canada has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Switzerland?",
+        "completion": "The capital of Switzerland is Bern."
+    },
+    {
+        "prompt": "Which region does Switzerland belong to?",
+        "completion": "Switzerland belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Switzerland?",
+        "completion": "Switzerland has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Channel Islands?",
+        "completion": "The capital of Channel Islands is ."
+    },
+    {
+        "prompt": "Which region does Channel Islands belong to?",
+        "completion": "Channel Islands belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Channel Islands?",
+        "completion": "Channel Islands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Chile?",
+        "completion": "The capital of Chile is Santiago."
+    },
+    {
+        "prompt": "Which region does Chile belong to?",
+        "completion": "Chile belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Chile?",
+        "completion": "Chile has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of China?",
+        "completion": "The capital of China is Beijing."
+    },
+    {
+        "prompt": "Which region does China belong to?",
+        "completion": "China belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of China?",
+        "completion": "China has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Cote d'Ivoire?",
+        "completion": "The capital of Cote d'Ivoire is Yamoussoukro."
+    },
+    {
+        "prompt": "Which region does Cote d'Ivoire belong to?",
+        "completion": "Cote d'Ivoire belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Cote d'Ivoire?",
+        "completion": "Cote d'Ivoire has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Cameroon?",
+        "completion": "The capital of Cameroon is Yaounde."
+    },
+    {
+        "prompt": "Which region does Cameroon belong to?",
+        "completion": "Cameroon belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Cameroon?",
+        "completion": "Cameroon has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Congo, Dem. Rep.?",
+        "completion": "The capital of Congo, Dem. Rep. is Kinshasa."
+    },
+    {
+        "prompt": "Which region does Congo, Dem. Rep. belong to?",
+        "completion": "Congo, Dem. Rep. belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Congo, Dem. Rep.?",
+        "completion": "Congo, Dem. Rep. has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Congo, Rep.?",
+        "completion": "The capital of Congo, Rep. is Brazzaville."
+    },
+    {
+        "prompt": "Which region does Congo, Rep. belong to?",
+        "completion": "Congo, Rep. belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Congo, Rep.?",
+        "completion": "Congo, Rep. has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Colombia?",
+        "completion": "The capital of Colombia is Bogota."
+    },
+    {
+        "prompt": "Which region does Colombia belong to?",
+        "completion": "Colombia belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Colombia?",
+        "completion": "Colombia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Comoros?",
+        "completion": "The capital of Comoros is Moroni."
+    },
+    {
+        "prompt": "Which region does Comoros belong to?",
+        "completion": "Comoros belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Comoros?",
+        "completion": "Comoros has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Cabo Verde?",
+        "completion": "The capital of Cabo Verde is Praia."
+    },
+    {
+        "prompt": "Which region does Cabo Verde belong to?",
+        "completion": "Cabo Verde belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Cabo Verde?",
+        "completion": "Cabo Verde has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Costa Rica?",
+        "completion": "The capital of Costa Rica is San Jose."
+    },
+    {
+        "prompt": "Which region does Costa Rica belong to?",
+        "completion": "Costa Rica belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Costa Rica?",
+        "completion": "Costa Rica has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Cuba?",
+        "completion": "The capital of Cuba is Havana."
+    },
+    {
+        "prompt": "Which region does Cuba belong to?",
+        "completion": "Cuba belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Cuba?",
+        "completion": "Cuba has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Curacao?",
+        "completion": "The capital of Curacao is Willemstad."
+    },
+    {
+        "prompt": "Which region does Curacao belong to?",
+        "completion": "Curacao belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Curacao?",
+        "completion": "Curacao has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Cayman Islands?",
+        "completion": "The capital of Cayman Islands is George Town."
+    },
+    {
+        "prompt": "Which region does Cayman Islands belong to?",
+        "completion": "Cayman Islands belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Cayman Islands?",
+        "completion": "Cayman Islands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Cyprus?",
+        "completion": "The capital of Cyprus is Nicosia."
+    },
+    {
+        "prompt": "Which region does Cyprus belong to?",
+        "completion": "Cyprus belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Cyprus?",
+        "completion": "Cyprus has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Czechia?",
+        "completion": "The capital of Czechia is Prague."
+    },
+    {
+        "prompt": "Which region does Czechia belong to?",
+        "completion": "Czechia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Czechia?",
+        "completion": "Czechia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Germany?",
+        "completion": "The capital of Germany is Berlin."
+    },
+    {
+        "prompt": "Which region does Germany belong to?",
+        "completion": "Germany belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Germany?",
+        "completion": "Germany has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Djibouti?",
+        "completion": "The capital of Djibouti is Djibouti."
+    },
+    {
+        "prompt": "Which region does Djibouti belong to?",
+        "completion": "Djibouti belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Djibouti?",
+        "completion": "Djibouti has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Dominica?",
+        "completion": "The capital of Dominica is Roseau."
+    },
+    {
+        "prompt": "Which region does Dominica belong to?",
+        "completion": "Dominica belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Dominica?",
+        "completion": "Dominica has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Denmark?",
+        "completion": "The capital of Denmark is Copenhagen."
+    },
+    {
+        "prompt": "Which region does Denmark belong to?",
+        "completion": "Denmark belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Denmark?",
+        "completion": "Denmark has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Dominican Republic?",
+        "completion": "The capital of Dominican Republic is Santo Domingo."
+    },
+    {
+        "prompt": "Which region does Dominican Republic belong to?",
+        "completion": "Dominican Republic belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Dominican Republic?",
+        "completion": "Dominican Republic has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Algeria?",
+        "completion": "The capital of Algeria is Algiers."
+    },
+    {
+        "prompt": "Which region does Algeria belong to?",
+        "completion": "Algeria belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Algeria?",
+        "completion": "Algeria has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Ecuador?",
+        "completion": "The capital of Ecuador is Quito."
+    },
+    {
+        "prompt": "Which region does Ecuador belong to?",
+        "completion": "Ecuador belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Ecuador?",
+        "completion": "Ecuador has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Egypt, Arab Rep.?",
+        "completion": "The capital of Egypt, Arab Rep. is Cairo."
+    },
+    {
+        "prompt": "Which region does Egypt, Arab Rep. belong to?",
+        "completion": "Egypt, Arab Rep. belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Egypt, Arab Rep.?",
+        "completion": "Egypt, Arab Rep. has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Eritrea?",
+        "completion": "The capital of Eritrea is Asmara."
+    },
+    {
+        "prompt": "Which region does Eritrea belong to?",
+        "completion": "Eritrea belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Eritrea?",
+        "completion": "Eritrea has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Spain?",
+        "completion": "The capital of Spain is Madrid."
+    },
+    {
+        "prompt": "Which region does Spain belong to?",
+        "completion": "Spain belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Spain?",
+        "completion": "Spain has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Estonia?",
+        "completion": "The capital of Estonia is Tallinn."
+    },
+    {
+        "prompt": "Which region does Estonia belong to?",
+        "completion": "Estonia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Estonia?",
+        "completion": "Estonia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Ethiopia?",
+        "completion": "The capital of Ethiopia is Addis Ababa."
+    },
+    {
+        "prompt": "Which region does Ethiopia belong to?",
+        "completion": "Ethiopia belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Ethiopia?",
+        "completion": "Ethiopia has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Finland?",
+        "completion": "The capital of Finland is Helsinki."
+    },
+    {
+        "prompt": "Which region does Finland belong to?",
+        "completion": "Finland belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Finland?",
+        "completion": "Finland has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Fiji?",
+        "completion": "The capital of Fiji is Suva."
+    },
+    {
+        "prompt": "Which region does Fiji belong to?",
+        "completion": "Fiji belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Fiji?",
+        "completion": "Fiji has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of France?",
+        "completion": "The capital of France is Paris."
+    },
+    {
+        "prompt": "Which region does France belong to?",
+        "completion": "France belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of France?",
+        "completion": "France has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Faroe Islands?",
+        "completion": "The capital of Faroe Islands is Torshavn."
+    },
+    {
+        "prompt": "Which region does Faroe Islands belong to?",
+        "completion": "Faroe Islands belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Faroe Islands?",
+        "completion": "Faroe Islands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Micronesia, Fed. Sts.?",
+        "completion": "The capital of Micronesia, Fed. Sts. is Palikir."
+    },
+    {
+        "prompt": "Which region does Micronesia, Fed. Sts. belong to?",
+        "completion": "Micronesia, Fed. Sts. belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Micronesia, Fed. Sts.?",
+        "completion": "Micronesia, Fed. Sts. has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Gabon?",
+        "completion": "The capital of Gabon is Libreville."
+    },
+    {
+        "prompt": "Which region does Gabon belong to?",
+        "completion": "Gabon belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Gabon?",
+        "completion": "Gabon has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of United Kingdom?",
+        "completion": "The capital of United Kingdom is London."
+    },
+    {
+        "prompt": "Which region does United Kingdom belong to?",
+        "completion": "United Kingdom belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of United Kingdom?",
+        "completion": "United Kingdom has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Georgia?",
+        "completion": "The capital of Georgia is Tbilisi."
+    },
+    {
+        "prompt": "Which region does Georgia belong to?",
+        "completion": "Georgia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Georgia?",
+        "completion": "Georgia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Ghana?",
+        "completion": "The capital of Ghana is Accra."
+    },
+    {
+        "prompt": "Which region does Ghana belong to?",
+        "completion": "Ghana belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Ghana?",
+        "completion": "Ghana has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Gibraltar?",
+        "completion": "The capital of Gibraltar is ."
+    },
+    {
+        "prompt": "Which region does Gibraltar belong to?",
+        "completion": "Gibraltar belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Gibraltar?",
+        "completion": "Gibraltar has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Guinea?",
+        "completion": "The capital of Guinea is Conakry."
+    },
+    {
+        "prompt": "Which region does Guinea belong to?",
+        "completion": "Guinea belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Guinea?",
+        "completion": "Guinea has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Gambia, The?",
+        "completion": "The capital of Gambia, The is Banjul."
+    },
+    {
+        "prompt": "Which region does Gambia, The belong to?",
+        "completion": "Gambia, The belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Gambia, The?",
+        "completion": "Gambia, The has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Guinea-Bissau?",
+        "completion": "The capital of Guinea-Bissau is Bissau."
+    },
+    {
+        "prompt": "Which region does Guinea-Bissau belong to?",
+        "completion": "Guinea-Bissau belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Guinea-Bissau?",
+        "completion": "Guinea-Bissau has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Equatorial Guinea?",
+        "completion": "The capital of Equatorial Guinea is Malabo."
+    },
+    {
+        "prompt": "Which region does Equatorial Guinea belong to?",
+        "completion": "Equatorial Guinea belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Equatorial Guinea?",
+        "completion": "Equatorial Guinea has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Greece?",
+        "completion": "The capital of Greece is Athens."
+    },
+    {
+        "prompt": "Which region does Greece belong to?",
+        "completion": "Greece belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Greece?",
+        "completion": "Greece has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Grenada?",
+        "completion": "The capital of Grenada is Saint George's."
+    },
+    {
+        "prompt": "Which region does Grenada belong to?",
+        "completion": "Grenada belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Grenada?",
+        "completion": "Grenada has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Greenland?",
+        "completion": "The capital of Greenland is Nuuk."
+    },
+    {
+        "prompt": "Which region does Greenland belong to?",
+        "completion": "Greenland belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Greenland?",
+        "completion": "Greenland has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Guatemala?",
+        "completion": "The capital of Guatemala is Guatemala City."
+    },
+    {
+        "prompt": "Which region does Guatemala belong to?",
+        "completion": "Guatemala belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Guatemala?",
+        "completion": "Guatemala has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Guam?",
+        "completion": "The capital of Guam is Agana."
+    },
+    {
+        "prompt": "Which region does Guam belong to?",
+        "completion": "Guam belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Guam?",
+        "completion": "Guam has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Guyana?",
+        "completion": "The capital of Guyana is Georgetown."
+    },
+    {
+        "prompt": "Which region does Guyana belong to?",
+        "completion": "Guyana belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Guyana?",
+        "completion": "Guyana has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Hong Kong SAR, China?",
+        "completion": "The capital of Hong Kong SAR, China is ."
+    },
+    {
+        "prompt": "Which region does Hong Kong SAR, China belong to?",
+        "completion": "Hong Kong SAR, China belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Hong Kong SAR, China?",
+        "completion": "Hong Kong SAR, China has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Honduras?",
+        "completion": "The capital of Honduras is Tegucigalpa."
+    },
+    {
+        "prompt": "Which region does Honduras belong to?",
+        "completion": "Honduras belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Honduras?",
+        "completion": "Honduras has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Croatia?",
+        "completion": "The capital of Croatia is Zagreb."
+    },
+    {
+        "prompt": "Which region does Croatia belong to?",
+        "completion": "Croatia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Croatia?",
+        "completion": "Croatia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Haiti?",
+        "completion": "The capital of Haiti is Port-au-Prince."
+    },
+    {
+        "prompt": "Which region does Haiti belong to?",
+        "completion": "Haiti belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Haiti?",
+        "completion": "Haiti has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Hungary?",
+        "completion": "The capital of Hungary is Budapest."
+    },
+    {
+        "prompt": "Which region does Hungary belong to?",
+        "completion": "Hungary belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Hungary?",
+        "completion": "Hungary has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Indonesia?",
+        "completion": "The capital of Indonesia is Jakarta."
+    },
+    {
+        "prompt": "Which region does Indonesia belong to?",
+        "completion": "Indonesia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Indonesia?",
+        "completion": "Indonesia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Isle of Man?",
+        "completion": "The capital of Isle of Man is Douglas."
+    },
+    {
+        "prompt": "Which region does Isle of Man belong to?",
+        "completion": "Isle of Man belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Isle of Man?",
+        "completion": "Isle of Man has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of India?",
+        "completion": "The capital of India is New Delhi."
+    },
+    {
+        "prompt": "Which region does India belong to?",
+        "completion": "India belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of India?",
+        "completion": "India has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Ireland?",
+        "completion": "The capital of Ireland is Dublin."
+    },
+    {
+        "prompt": "Which region does Ireland belong to?",
+        "completion": "Ireland belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Ireland?",
+        "completion": "Ireland has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Iran, Islamic Rep.?",
+        "completion": "The capital of Iran, Islamic Rep. is Tehran."
+    },
+    {
+        "prompt": "Which region does Iran, Islamic Rep. belong to?",
+        "completion": "Iran, Islamic Rep. belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Iran, Islamic Rep.?",
+        "completion": "Iran, Islamic Rep. has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Iraq?",
+        "completion": "The capital of Iraq is Baghdad."
+    },
+    {
+        "prompt": "Which region does Iraq belong to?",
+        "completion": "Iraq belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Iraq?",
+        "completion": "Iraq has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Iceland?",
+        "completion": "The capital of Iceland is Reykjavik."
+    },
+    {
+        "prompt": "Which region does Iceland belong to?",
+        "completion": "Iceland belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Iceland?",
+        "completion": "Iceland has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Israel?",
+        "completion": "The capital of Israel is ."
+    },
+    {
+        "prompt": "Which region does Israel belong to?",
+        "completion": "Israel belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Israel?",
+        "completion": "Israel has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Italy?",
+        "completion": "The capital of Italy is Rome."
+    },
+    {
+        "prompt": "Which region does Italy belong to?",
+        "completion": "Italy belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Italy?",
+        "completion": "Italy has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Jamaica?",
+        "completion": "The capital of Jamaica is Kingston."
+    },
+    {
+        "prompt": "Which region does Jamaica belong to?",
+        "completion": "Jamaica belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Jamaica?",
+        "completion": "Jamaica has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Jordan?",
+        "completion": "The capital of Jordan is Amman."
+    },
+    {
+        "prompt": "Which region does Jordan belong to?",
+        "completion": "Jordan belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Jordan?",
+        "completion": "Jordan has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Japan?",
+        "completion": "The capital of Japan is Tokyo."
+    },
+    {
+        "prompt": "Which region does Japan belong to?",
+        "completion": "Japan belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Japan?",
+        "completion": "Japan has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Kazakhstan?",
+        "completion": "The capital of Kazakhstan is Astana."
+    },
+    {
+        "prompt": "Which region does Kazakhstan belong to?",
+        "completion": "Kazakhstan belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Kazakhstan?",
+        "completion": "Kazakhstan has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Kenya?",
+        "completion": "The capital of Kenya is Nairobi."
+    },
+    {
+        "prompt": "Which region does Kenya belong to?",
+        "completion": "Kenya belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Kenya?",
+        "completion": "Kenya has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Kyrgyz Republic?",
+        "completion": "The capital of Kyrgyz Republic is Bishkek."
+    },
+    {
+        "prompt": "Which region does Kyrgyz Republic belong to?",
+        "completion": "Kyrgyz Republic belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Kyrgyz Republic?",
+        "completion": "Kyrgyz Republic has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Cambodia?",
+        "completion": "The capital of Cambodia is Phnom Penh."
+    },
+    {
+        "prompt": "Which region does Cambodia belong to?",
+        "completion": "Cambodia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Cambodia?",
+        "completion": "Cambodia has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Kiribati?",
+        "completion": "The capital of Kiribati is Tarawa."
+    },
+    {
+        "prompt": "Which region does Kiribati belong to?",
+        "completion": "Kiribati belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Kiribati?",
+        "completion": "Kiribati has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of St. Kitts and Nevis?",
+        "completion": "The capital of St. Kitts and Nevis is Basseterre."
+    },
+    {
+        "prompt": "Which region does St. Kitts and Nevis belong to?",
+        "completion": "St. Kitts and Nevis belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of St. Kitts and Nevis?",
+        "completion": "St. Kitts and Nevis has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Korea, Rep.?",
+        "completion": "The capital of Korea, Rep. is Seoul."
+    },
+    {
+        "prompt": "Which region does Korea, Rep. belong to?",
+        "completion": "Korea, Rep. belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Korea, Rep.?",
+        "completion": "Korea, Rep. has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Kuwait?",
+        "completion": "The capital of Kuwait is Kuwait City."
+    },
+    {
+        "prompt": "Which region does Kuwait belong to?",
+        "completion": "Kuwait belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Kuwait?",
+        "completion": "Kuwait has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Lao PDR?",
+        "completion": "The capital of Lao PDR is Vientiane."
+    },
+    {
+        "prompt": "Which region does Lao PDR belong to?",
+        "completion": "Lao PDR belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Lao PDR?",
+        "completion": "Lao PDR has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Lebanon?",
+        "completion": "The capital of Lebanon is Beirut."
+    },
+    {
+        "prompt": "Which region does Lebanon belong to?",
+        "completion": "Lebanon belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Lebanon?",
+        "completion": "Lebanon has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Liberia?",
+        "completion": "The capital of Liberia is Monrovia."
+    },
+    {
+        "prompt": "Which region does Liberia belong to?",
+        "completion": "Liberia belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Liberia?",
+        "completion": "Liberia has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Libya?",
+        "completion": "The capital of Libya is Tripoli."
+    },
+    {
+        "prompt": "Which region does Libya belong to?",
+        "completion": "Libya belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Libya?",
+        "completion": "Libya has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of St. Lucia?",
+        "completion": "The capital of St. Lucia is Castries."
+    },
+    {
+        "prompt": "Which region does St. Lucia belong to?",
+        "completion": "St. Lucia belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of St. Lucia?",
+        "completion": "St. Lucia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Liechtenstein?",
+        "completion": "The capital of Liechtenstein is Vaduz."
+    },
+    {
+        "prompt": "Which region does Liechtenstein belong to?",
+        "completion": "Liechtenstein belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Liechtenstein?",
+        "completion": "Liechtenstein has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Sri Lanka?",
+        "completion": "The capital of Sri Lanka is Colombo."
+    },
+    {
+        "prompt": "Which region does Sri Lanka belong to?",
+        "completion": "Sri Lanka belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Sri Lanka?",
+        "completion": "Sri Lanka has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Lesotho?",
+        "completion": "The capital of Lesotho is Maseru."
+    },
+    {
+        "prompt": "Which region does Lesotho belong to?",
+        "completion": "Lesotho belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Lesotho?",
+        "completion": "Lesotho has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Lithuania?",
+        "completion": "The capital of Lithuania is Vilnius."
+    },
+    {
+        "prompt": "Which region does Lithuania belong to?",
+        "completion": "Lithuania belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Lithuania?",
+        "completion": "Lithuania has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Luxembourg?",
+        "completion": "The capital of Luxembourg is Luxembourg."
+    },
+    {
+        "prompt": "Which region does Luxembourg belong to?",
+        "completion": "Luxembourg belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Luxembourg?",
+        "completion": "Luxembourg has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Latvia?",
+        "completion": "The capital of Latvia is Riga."
+    },
+    {
+        "prompt": "Which region does Latvia belong to?",
+        "completion": "Latvia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Latvia?",
+        "completion": "Latvia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Macao SAR, China?",
+        "completion": "The capital of Macao SAR, China is ."
+    },
+    {
+        "prompt": "Which region does Macao SAR, China belong to?",
+        "completion": "Macao SAR, China belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Macao SAR, China?",
+        "completion": "Macao SAR, China has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of St. Martin (French part)?",
+        "completion": "The capital of St. Martin (French part) is Marigot."
+    },
+    {
+        "prompt": "Which region does St. Martin (French part) belong to?",
+        "completion": "St. Martin (French part) belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of St. Martin (French part)?",
+        "completion": "St. Martin (French part) has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Morocco?",
+        "completion": "The capital of Morocco is Rabat."
+    },
+    {
+        "prompt": "Which region does Morocco belong to?",
+        "completion": "Morocco belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Morocco?",
+        "completion": "Morocco has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Monaco?",
+        "completion": "The capital of Monaco is Monaco."
+    },
+    {
+        "prompt": "Which region does Monaco belong to?",
+        "completion": "Monaco belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Monaco?",
+        "completion": "Monaco has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Moldova?",
+        "completion": "The capital of Moldova is Chisinau."
+    },
+    {
+        "prompt": "Which region does Moldova belong to?",
+        "completion": "Moldova belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Moldova?",
+        "completion": "Moldova has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Madagascar?",
+        "completion": "The capital of Madagascar is Antananarivo."
+    },
+    {
+        "prompt": "Which region does Madagascar belong to?",
+        "completion": "Madagascar belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Madagascar?",
+        "completion": "Madagascar has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Maldives?",
+        "completion": "The capital of Maldives is Male."
+    },
+    {
+        "prompt": "Which region does Maldives belong to?",
+        "completion": "Maldives belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Maldives?",
+        "completion": "Maldives has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Mexico?",
+        "completion": "The capital of Mexico is Mexico City."
+    },
+    {
+        "prompt": "Which region does Mexico belong to?",
+        "completion": "Mexico belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Mexico?",
+        "completion": "Mexico has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Marshall Islands?",
+        "completion": "The capital of Marshall Islands is Majuro."
+    },
+    {
+        "prompt": "Which region does Marshall Islands belong to?",
+        "completion": "Marshall Islands belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Marshall Islands?",
+        "completion": "Marshall Islands has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of North Macedonia?",
+        "completion": "The capital of North Macedonia is Skopje."
+    },
+    {
+        "prompt": "Which region does North Macedonia belong to?",
+        "completion": "North Macedonia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of North Macedonia?",
+        "completion": "North Macedonia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Mali?",
+        "completion": "The capital of Mali is Bamako."
+    },
+    {
+        "prompt": "Which region does Mali belong to?",
+        "completion": "Mali belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Mali?",
+        "completion": "Mali has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Malta?",
+        "completion": "The capital of Malta is Valletta."
+    },
+    {
+        "prompt": "Which region does Malta belong to?",
+        "completion": "Malta belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Malta?",
+        "completion": "Malta has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Myanmar?",
+        "completion": "The capital of Myanmar is Naypyidaw."
+    },
+    {
+        "prompt": "Which region does Myanmar belong to?",
+        "completion": "Myanmar belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Myanmar?",
+        "completion": "Myanmar has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Montenegro?",
+        "completion": "The capital of Montenegro is Podgorica."
+    },
+    {
+        "prompt": "Which region does Montenegro belong to?",
+        "completion": "Montenegro belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Montenegro?",
+        "completion": "Montenegro has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Mongolia?",
+        "completion": "The capital of Mongolia is Ulaanbaatar."
+    },
+    {
+        "prompt": "Which region does Mongolia belong to?",
+        "completion": "Mongolia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Mongolia?",
+        "completion": "Mongolia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Northern Mariana Islands?",
+        "completion": "The capital of Northern Mariana Islands is Saipan."
+    },
+    {
+        "prompt": "Which region does Northern Mariana Islands belong to?",
+        "completion": "Northern Mariana Islands belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Northern Mariana Islands?",
+        "completion": "Northern Mariana Islands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Mozambique?",
+        "completion": "The capital of Mozambique is Maputo."
+    },
+    {
+        "prompt": "Which region does Mozambique belong to?",
+        "completion": "Mozambique belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Mozambique?",
+        "completion": "Mozambique has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Mauritania?",
+        "completion": "The capital of Mauritania is Nouakchott."
+    },
+    {
+        "prompt": "Which region does Mauritania belong to?",
+        "completion": "Mauritania belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Mauritania?",
+        "completion": "Mauritania has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Mauritius?",
+        "completion": "The capital of Mauritius is Port Louis."
+    },
+    {
+        "prompt": "Which region does Mauritius belong to?",
+        "completion": "Mauritius belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Mauritius?",
+        "completion": "Mauritius has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Malawi?",
+        "completion": "The capital of Malawi is Lilongwe."
+    },
+    {
+        "prompt": "Which region does Malawi belong to?",
+        "completion": "Malawi belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Malawi?",
+        "completion": "Malawi has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Malaysia?",
+        "completion": "The capital of Malaysia is Kuala Lumpur."
+    },
+    {
+        "prompt": "Which region does Malaysia belong to?",
+        "completion": "Malaysia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Malaysia?",
+        "completion": "Malaysia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Namibia?",
+        "completion": "The capital of Namibia is Windhoek."
+    },
+    {
+        "prompt": "Which region does Namibia belong to?",
+        "completion": "Namibia belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Namibia?",
+        "completion": "Namibia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of New Caledonia?",
+        "completion": "The capital of New Caledonia is Noum'ea."
+    },
+    {
+        "prompt": "Which region does New Caledonia belong to?",
+        "completion": "New Caledonia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of New Caledonia?",
+        "completion": "New Caledonia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Niger?",
+        "completion": "The capital of Niger is Niamey."
+    },
+    {
+        "prompt": "Which region does Niger belong to?",
+        "completion": "Niger belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Niger?",
+        "completion": "Niger has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Nigeria?",
+        "completion": "The capital of Nigeria is Abuja."
+    },
+    {
+        "prompt": "Which region does Nigeria belong to?",
+        "completion": "Nigeria belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Nigeria?",
+        "completion": "Nigeria has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Nicaragua?",
+        "completion": "The capital of Nicaragua is Managua."
+    },
+    {
+        "prompt": "Which region does Nicaragua belong to?",
+        "completion": "Nicaragua belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Nicaragua?",
+        "completion": "Nicaragua has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Netherlands?",
+        "completion": "The capital of Netherlands is Amsterdam."
+    },
+    {
+        "prompt": "Which region does Netherlands belong to?",
+        "completion": "Netherlands belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Netherlands?",
+        "completion": "Netherlands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Norway?",
+        "completion": "The capital of Norway is Oslo."
+    },
+    {
+        "prompt": "Which region does Norway belong to?",
+        "completion": "Norway belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Norway?",
+        "completion": "Norway has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Nepal?",
+        "completion": "The capital of Nepal is Kathmandu."
+    },
+    {
+        "prompt": "Which region does Nepal belong to?",
+        "completion": "Nepal belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Nepal?",
+        "completion": "Nepal has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Nauru?",
+        "completion": "The capital of Nauru is Yaren District."
+    },
+    {
+        "prompt": "Which region does Nauru belong to?",
+        "completion": "Nauru belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Nauru?",
+        "completion": "Nauru has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of New Zealand?",
+        "completion": "The capital of New Zealand is Wellington."
+    },
+    {
+        "prompt": "Which region does New Zealand belong to?",
+        "completion": "New Zealand belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of New Zealand?",
+        "completion": "New Zealand has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Oman?",
+        "completion": "The capital of Oman is Muscat."
+    },
+    {
+        "prompt": "Which region does Oman belong to?",
+        "completion": "Oman belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Oman?",
+        "completion": "Oman has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Pakistan?",
+        "completion": "The capital of Pakistan is Islamabad."
+    },
+    {
+        "prompt": "Which region does Pakistan belong to?",
+        "completion": "Pakistan belongs to the South Asia region."
+    },
+    {
+        "prompt": "What is the income level of Pakistan?",
+        "completion": "Pakistan has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Panama?",
+        "completion": "The capital of Panama is Panama City."
+    },
+    {
+        "prompt": "Which region does Panama belong to?",
+        "completion": "Panama belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Panama?",
+        "completion": "Panama has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Peru?",
+        "completion": "The capital of Peru is Lima."
+    },
+    {
+        "prompt": "Which region does Peru belong to?",
+        "completion": "Peru belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Peru?",
+        "completion": "Peru has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Philippines?",
+        "completion": "The capital of Philippines is Manila."
+    },
+    {
+        "prompt": "Which region does Philippines belong to?",
+        "completion": "Philippines belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Philippines?",
+        "completion": "Philippines has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Palau?",
+        "completion": "The capital of Palau is Koror."
+    },
+    {
+        "prompt": "Which region does Palau belong to?",
+        "completion": "Palau belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Palau?",
+        "completion": "Palau has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Papua New Guinea?",
+        "completion": "The capital of Papua New Guinea is Port Moresby."
+    },
+    {
+        "prompt": "Which region does Papua New Guinea belong to?",
+        "completion": "Papua New Guinea belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Papua New Guinea?",
+        "completion": "Papua New Guinea has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Poland?",
+        "completion": "The capital of Poland is Warsaw."
+    },
+    {
+        "prompt": "Which region does Poland belong to?",
+        "completion": "Poland belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Poland?",
+        "completion": "Poland has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Puerto Rico?",
+        "completion": "The capital of Puerto Rico is San Juan."
+    },
+    {
+        "prompt": "Which region does Puerto Rico belong to?",
+        "completion": "Puerto Rico belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Puerto Rico?",
+        "completion": "Puerto Rico has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Korea, Dem. People's Rep.?",
+        "completion": "The capital of Korea, Dem. People's Rep. is Pyongyang."
+    },
+    {
+        "prompt": "Which region does Korea, Dem. People's Rep. belong to?",
+        "completion": "Korea, Dem. People's Rep. belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Korea, Dem. People's Rep.?",
+        "completion": "Korea, Dem. People's Rep. has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Portugal?",
+        "completion": "The capital of Portugal is Lisbon."
+    },
+    {
+        "prompt": "Which region does Portugal belong to?",
+        "completion": "Portugal belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Portugal?",
+        "completion": "Portugal has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Paraguay?",
+        "completion": "The capital of Paraguay is Asuncion."
+    },
+    {
+        "prompt": "Which region does Paraguay belong to?",
+        "completion": "Paraguay belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Paraguay?",
+        "completion": "Paraguay has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of West Bank and Gaza?",
+        "completion": "The capital of West Bank and Gaza is ."
+    },
+    {
+        "prompt": "Which region does West Bank and Gaza belong to?",
+        "completion": "West Bank and Gaza belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of West Bank and Gaza?",
+        "completion": "West Bank and Gaza has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of French Polynesia?",
+        "completion": "The capital of French Polynesia is Papeete."
+    },
+    {
+        "prompt": "Which region does French Polynesia belong to?",
+        "completion": "French Polynesia belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of French Polynesia?",
+        "completion": "French Polynesia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Qatar?",
+        "completion": "The capital of Qatar is Doha."
+    },
+    {
+        "prompt": "Which region does Qatar belong to?",
+        "completion": "Qatar belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Qatar?",
+        "completion": "Qatar has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Romania?",
+        "completion": "The capital of Romania is Bucharest."
+    },
+    {
+        "prompt": "Which region does Romania belong to?",
+        "completion": "Romania belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Romania?",
+        "completion": "Romania has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Russian Federation?",
+        "completion": "The capital of Russian Federation is Moscow."
+    },
+    {
+        "prompt": "Which region does Russian Federation belong to?",
+        "completion": "Russian Federation belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Russian Federation?",
+        "completion": "Russian Federation has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Rwanda?",
+        "completion": "The capital of Rwanda is Kigali."
+    },
+    {
+        "prompt": "Which region does Rwanda belong to?",
+        "completion": "Rwanda belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Rwanda?",
+        "completion": "Rwanda has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Saudi Arabia?",
+        "completion": "The capital of Saudi Arabia is Riyadh."
+    },
+    {
+        "prompt": "Which region does Saudi Arabia belong to?",
+        "completion": "Saudi Arabia belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Saudi Arabia?",
+        "completion": "Saudi Arabia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Sudan?",
+        "completion": "The capital of Sudan is Khartoum."
+    },
+    {
+        "prompt": "Which region does Sudan belong to?",
+        "completion": "Sudan belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Sudan?",
+        "completion": "Sudan has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Senegal?",
+        "completion": "The capital of Senegal is Dakar."
+    },
+    {
+        "prompt": "Which region does Senegal belong to?",
+        "completion": "Senegal belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Senegal?",
+        "completion": "Senegal has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Singapore?",
+        "completion": "The capital of Singapore is Singapore."
+    },
+    {
+        "prompt": "Which region does Singapore belong to?",
+        "completion": "Singapore belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Singapore?",
+        "completion": "Singapore has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Solomon Islands?",
+        "completion": "The capital of Solomon Islands is Honiara."
+    },
+    {
+        "prompt": "Which region does Solomon Islands belong to?",
+        "completion": "Solomon Islands belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Solomon Islands?",
+        "completion": "Solomon Islands has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Sierra Leone?",
+        "completion": "The capital of Sierra Leone is Freetown."
+    },
+    {
+        "prompt": "Which region does Sierra Leone belong to?",
+        "completion": "Sierra Leone belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Sierra Leone?",
+        "completion": "Sierra Leone has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of El Salvador?",
+        "completion": "The capital of El Salvador is San Salvador."
+    },
+    {
+        "prompt": "Which region does El Salvador belong to?",
+        "completion": "El Salvador belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of El Salvador?",
+        "completion": "El Salvador has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of San Marino?",
+        "completion": "The capital of San Marino is San Marino."
+    },
+    {
+        "prompt": "Which region does San Marino belong to?",
+        "completion": "San Marino belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of San Marino?",
+        "completion": "San Marino has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Somalia?",
+        "completion": "The capital of Somalia is Mogadishu."
+    },
+    {
+        "prompt": "Which region does Somalia belong to?",
+        "completion": "Somalia belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Somalia?",
+        "completion": "Somalia has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Serbia?",
+        "completion": "The capital of Serbia is Belgrade."
+    },
+    {
+        "prompt": "Which region does Serbia belong to?",
+        "completion": "Serbia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Serbia?",
+        "completion": "Serbia has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of South Sudan?",
+        "completion": "The capital of South Sudan is Juba."
+    },
+    {
+        "prompt": "Which region does South Sudan belong to?",
+        "completion": "South Sudan belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of South Sudan?",
+        "completion": "South Sudan has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Sao Tome and Principe?",
+        "completion": "The capital of Sao Tome and Principe is Sao Tome."
+    },
+    {
+        "prompt": "Which region does Sao Tome and Principe belong to?",
+        "completion": "Sao Tome and Principe belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Sao Tome and Principe?",
+        "completion": "Sao Tome and Principe has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Suriname?",
+        "completion": "The capital of Suriname is Paramaribo."
+    },
+    {
+        "prompt": "Which region does Suriname belong to?",
+        "completion": "Suriname belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Suriname?",
+        "completion": "Suriname has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Slovak Republic?",
+        "completion": "The capital of Slovak Republic is Bratislava."
+    },
+    {
+        "prompt": "Which region does Slovak Republic belong to?",
+        "completion": "Slovak Republic belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Slovak Republic?",
+        "completion": "Slovak Republic has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Slovenia?",
+        "completion": "The capital of Slovenia is Ljubljana."
+    },
+    {
+        "prompt": "Which region does Slovenia belong to?",
+        "completion": "Slovenia belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Slovenia?",
+        "completion": "Slovenia has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Sweden?",
+        "completion": "The capital of Sweden is Stockholm."
+    },
+    {
+        "prompt": "Which region does Sweden belong to?",
+        "completion": "Sweden belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Sweden?",
+        "completion": "Sweden has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Eswatini?",
+        "completion": "The capital of Eswatini is Mbabane."
+    },
+    {
+        "prompt": "Which region does Eswatini belong to?",
+        "completion": "Eswatini belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Eswatini?",
+        "completion": "Eswatini has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Sint Maarten (Dutch part)?",
+        "completion": "The capital of Sint Maarten (Dutch part) is Philipsburg."
+    },
+    {
+        "prompt": "Which region does Sint Maarten (Dutch part) belong to?",
+        "completion": "Sint Maarten (Dutch part) belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Sint Maarten (Dutch part)?",
+        "completion": "Sint Maarten (Dutch part) has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Seychelles?",
+        "completion": "The capital of Seychelles is Victoria."
+    },
+    {
+        "prompt": "Which region does Seychelles belong to?",
+        "completion": "Seychelles belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Seychelles?",
+        "completion": "Seychelles has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Syrian Arab Republic?",
+        "completion": "The capital of Syrian Arab Republic is Damascus."
+    },
+    {
+        "prompt": "Which region does Syrian Arab Republic belong to?",
+        "completion": "Syrian Arab Republic belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Syrian Arab Republic?",
+        "completion": "Syrian Arab Republic has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Turks and Caicos Islands?",
+        "completion": "The capital of Turks and Caicos Islands is Grand Turk."
+    },
+    {
+        "prompt": "Which region does Turks and Caicos Islands belong to?",
+        "completion": "Turks and Caicos Islands belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Turks and Caicos Islands?",
+        "completion": "Turks and Caicos Islands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Chad?",
+        "completion": "The capital of Chad is N'Djamena."
+    },
+    {
+        "prompt": "Which region does Chad belong to?",
+        "completion": "Chad belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Chad?",
+        "completion": "Chad has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Togo?",
+        "completion": "The capital of Togo is Lome."
+    },
+    {
+        "prompt": "Which region does Togo belong to?",
+        "completion": "Togo belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Togo?",
+        "completion": "Togo has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Thailand?",
+        "completion": "The capital of Thailand is Bangkok."
+    },
+    {
+        "prompt": "Which region does Thailand belong to?",
+        "completion": "Thailand belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Thailand?",
+        "completion": "Thailand has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Tajikistan?",
+        "completion": "The capital of Tajikistan is Dushanbe."
+    },
+    {
+        "prompt": "Which region does Tajikistan belong to?",
+        "completion": "Tajikistan belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Tajikistan?",
+        "completion": "Tajikistan has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Turkmenistan?",
+        "completion": "The capital of Turkmenistan is Ashgabat."
+    },
+    {
+        "prompt": "Which region does Turkmenistan belong to?",
+        "completion": "Turkmenistan belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Turkmenistan?",
+        "completion": "Turkmenistan has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Timor-Leste?",
+        "completion": "The capital of Timor-Leste is Dili."
+    },
+    {
+        "prompt": "Which region does Timor-Leste belong to?",
+        "completion": "Timor-Leste belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Timor-Leste?",
+        "completion": "Timor-Leste has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Tonga?",
+        "completion": "The capital of Tonga is Nuku'alofa."
+    },
+    {
+        "prompt": "Which region does Tonga belong to?",
+        "completion": "Tonga belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Tonga?",
+        "completion": "Tonga has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Trinidad and Tobago?",
+        "completion": "The capital of Trinidad and Tobago is Port-of-Spain."
+    },
+    {
+        "prompt": "Which region does Trinidad and Tobago belong to?",
+        "completion": "Trinidad and Tobago belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Trinidad and Tobago?",
+        "completion": "Trinidad and Tobago has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Tunisia?",
+        "completion": "The capital of Tunisia is Tunis."
+    },
+    {
+        "prompt": "Which region does Tunisia belong to?",
+        "completion": "Tunisia belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Tunisia?",
+        "completion": "Tunisia has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Turkiye?",
+        "completion": "The capital of Turkiye is Ankara."
+    },
+    {
+        "prompt": "Which region does Turkiye belong to?",
+        "completion": "Turkiye belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Turkiye?",
+        "completion": "Turkiye has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Tuvalu?",
+        "completion": "The capital of Tuvalu is Funafuti."
+    },
+    {
+        "prompt": "Which region does Tuvalu belong to?",
+        "completion": "Tuvalu belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Tuvalu?",
+        "completion": "Tuvalu has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Tanzania?",
+        "completion": "The capital of Tanzania is Dodoma."
+    },
+    {
+        "prompt": "Which region does Tanzania belong to?",
+        "completion": "Tanzania belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Tanzania?",
+        "completion": "Tanzania has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Uganda?",
+        "completion": "The capital of Uganda is Kampala."
+    },
+    {
+        "prompt": "Which region does Uganda belong to?",
+        "completion": "Uganda belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Uganda?",
+        "completion": "Uganda has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of Ukraine?",
+        "completion": "The capital of Ukraine is Kiev."
+    },
+    {
+        "prompt": "Which region does Ukraine belong to?",
+        "completion": "Ukraine belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Ukraine?",
+        "completion": "Ukraine has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Uruguay?",
+        "completion": "The capital of Uruguay is Montevideo."
+    },
+    {
+        "prompt": "Which region does Uruguay belong to?",
+        "completion": "Uruguay belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Uruguay?",
+        "completion": "Uruguay has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of United States?",
+        "completion": "The capital of United States is Washington D.C.."
+    },
+    {
+        "prompt": "Which region does United States belong to?",
+        "completion": "United States belongs to the North America region."
+    },
+    {
+        "prompt": "What is the income level of United States?",
+        "completion": "United States has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Uzbekistan?",
+        "completion": "The capital of Uzbekistan is Tashkent."
+    },
+    {
+        "prompt": "Which region does Uzbekistan belong to?",
+        "completion": "Uzbekistan belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Uzbekistan?",
+        "completion": "Uzbekistan has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of St. Vincent and the Grenadines?",
+        "completion": "The capital of St. Vincent and the Grenadines is Kingstown."
+    },
+    {
+        "prompt": "Which region does St. Vincent and the Grenadines belong to?",
+        "completion": "St. Vincent and the Grenadines belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of St. Vincent and the Grenadines?",
+        "completion": "St. Vincent and the Grenadines has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Venezuela, RB?",
+        "completion": "The capital of Venezuela, RB is Caracas."
+    },
+    {
+        "prompt": "Which region does Venezuela, RB belong to?",
+        "completion": "Venezuela, RB belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Venezuela, RB?",
+        "completion": "Venezuela, RB has an income level of Not classified."
+    },
+    {
+        "prompt": "What is the capital of British Virgin Islands?",
+        "completion": "The capital of British Virgin Islands is Road Town."
+    },
+    {
+        "prompt": "Which region does British Virgin Islands belong to?",
+        "completion": "British Virgin Islands belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of British Virgin Islands?",
+        "completion": "British Virgin Islands has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Virgin Islands (U.S.)?",
+        "completion": "The capital of Virgin Islands (U.S.) is Charlotte Amalie."
+    },
+    {
+        "prompt": "Which region does Virgin Islands (U.S.) belong to?",
+        "completion": "Virgin Islands (U.S.) belongs to the Latin America & Caribbean region."
+    },
+    {
+        "prompt": "What is the income level of Virgin Islands (U.S.)?",
+        "completion": "Virgin Islands (U.S.) has an income level of High income."
+    },
+    {
+        "prompt": "What is the capital of Viet Nam?",
+        "completion": "The capital of Viet Nam is Hanoi."
+    },
+    {
+        "prompt": "Which region does Viet Nam belong to?",
+        "completion": "Viet Nam belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Viet Nam?",
+        "completion": "Viet Nam has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Vanuatu?",
+        "completion": "The capital of Vanuatu is Port-Vila."
+    },
+    {
+        "prompt": "Which region does Vanuatu belong to?",
+        "completion": "Vanuatu belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Vanuatu?",
+        "completion": "Vanuatu has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Samoa?",
+        "completion": "The capital of Samoa is Apia."
+    },
+    {
+        "prompt": "Which region does Samoa belong to?",
+        "completion": "Samoa belongs to the East Asia & Pacific region."
+    },
+    {
+        "prompt": "What is the income level of Samoa?",
+        "completion": "Samoa has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Kosovo?",
+        "completion": "The capital of Kosovo is Pristina."
+    },
+    {
+        "prompt": "Which region does Kosovo belong to?",
+        "completion": "Kosovo belongs to the Europe & Central Asia region."
+    },
+    {
+        "prompt": "What is the income level of Kosovo?",
+        "completion": "Kosovo has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Yemen, Rep.?",
+        "completion": "The capital of Yemen, Rep. is Sana'a."
+    },
+    {
+        "prompt": "Which region does Yemen, Rep. belong to?",
+        "completion": "Yemen, Rep. belongs to the Middle East & North Africa region."
+    },
+    {
+        "prompt": "What is the income level of Yemen, Rep.?",
+        "completion": "Yemen, Rep. has an income level of Low income."
+    },
+    {
+        "prompt": "What is the capital of South Africa?",
+        "completion": "The capital of South Africa is Pretoria."
+    },
+    {
+        "prompt": "Which region does South Africa belong to?",
+        "completion": "South Africa belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of South Africa?",
+        "completion": "South Africa has an income level of Upper middle income."
+    },
+    {
+        "prompt": "What is the capital of Zambia?",
+        "completion": "The capital of Zambia is Lusaka."
+    },
+    {
+        "prompt": "Which region does Zambia belong to?",
+        "completion": "Zambia belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Zambia?",
+        "completion": "Zambia has an income level of Lower middle income."
+    },
+    {
+        "prompt": "What is the capital of Zimbabwe?",
+        "completion": "The capital of Zimbabwe is Harare."
+    },
+    {
+        "prompt": "Which region does Zimbabwe belong to?",
+        "completion": "Zimbabwe belongs to the Sub-Saharan Africa region."
+    },
+    {
+        "prompt": "What is the income level of Zimbabwe?",
+        "completion": "Zimbabwe has an income level of Lower middle income."
+    }
+]
